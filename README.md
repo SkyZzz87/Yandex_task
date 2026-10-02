@@ -1,1 +1,1 @@
-# Yandex_task For an internship
+# Yandex task For an internship
